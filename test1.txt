@@ -1,0 +1,5 @@
+8 8
+1 2 E
+MMLMRMMRRMML
+
+# Expected Result: 3 3 S
