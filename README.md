@@ -21,7 +21,9 @@ printed line with _Final position:_
 
 ## Description
 The program has been split up into 2 main parts, each encapsulated within its
-own class. The different parts, distributed by their responsibility of duties,
+own class. Each part has been tested to validate that their interfaces produce
+expected results when receiving specific inputs.
+The different parts, distributed by their responsibility of duties,
 are:
 
 ### 1. Mission Control
